@@ -3,7 +3,7 @@ Tên Dự Án: Test Collection of APIs
 
 Ngày Kiểm Thử: 28/05/2024
 
-Người Kiểm Thử: Trần Duy Bim
+Người Kiểm Thử: Nguyễn Phú Anh Quân
 
 Giới thiệu về Postman
 Postman là gì?
